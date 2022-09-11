@@ -1,5 +1,5 @@
 .profile {
-    width: 270px;
+    width: 300px;
     background-color: #f4ecec;
     border: 1px solid #c0c0c0;
     border-radius: 4px;
@@ -57,9 +57,10 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border-top: 1px solid #c0c0c0;
+    border: 1px solid #c0c0c0;
     padding: 10px 30px;
     text-align: center;
+    background-color: #90a6b8;
 }
 
 .label {
